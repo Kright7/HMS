@@ -1,0 +1,9 @@
+Ethan, Clark,oncology
+yunus, Martinez,Radiology
+Liam,livingstone,Anesthesiology
+Sophia, Lopez,Otolaryngology
+Mason, Scott,Psychiatry
+Emma, Gonzalez,Oncology
+upendra,devkota,heart
+Scarlett,Johnson,Urology
+usmaan,fariquee,gynacology

@@ -1,0 +1,5 @@
+Rajiv,Bhatiya,45,2345678,21,Ethan  Clark,hydrophobia,2020-10-11 10:11
+Sonam Kapoor,,34,2345678909,12,Mia  Martinez,fever|allergy,2005-02-01 10:10
+ramesh,parajuli,21,9823234322,21,upendra devkota,cough,2019-11-10 12:10
+jimmy,shergil,34,8395859534,131,Scarlett Johnson,itching,2019-10-11 10:10
+Charlie,Chaplin,45,2432453424,223232,,headache|stomachache,
